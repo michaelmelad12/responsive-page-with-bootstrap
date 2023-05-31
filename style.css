@@ -1,0 +1,137 @@
+.carousel-item img {
+
+    max-width: 100vw;
+    max-height: 90vh;
+}
+
+.card-body i {
+    font-size: 3em;
+    margin: 0.5em;
+
+
+}
+
+.card-body {
+    color: white;
+    text-align: center;
+}
+
+.circle {
+    background-color: #1fb4a9;
+    border: 1px solid #1fb4a9;
+    height: 6em;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    width: 6em;
+}
+
+.card {
+    background-color: #07aca0;
+}
+
+.textCenter {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', solid;
+}
+
+.ww {
+    list-style: none;
+}
+
+.green {
+    color: #07aca0;
+}
+
+.card2 {
+    background-color: white;
+
+}
+
+.nn {
+    font-family: 'Rubik Pixels', cursive;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.card2 h2 {
+    color: black;
+}
+
+.vv {
+    font-family: 'Rubik Pixels', cursive;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.card2 h5 {
+    color: white;
+    background-color: #07aca0;
+    padding: 0.5em;
+}
+
+.card2 ul {
+    color: black;
+}
+
+.card2 a {
+    padding: .5em;
+}
+
+
+.card3 {
+    background-color: whitesmoke;
+    text-align: left;
+}
+
+.card3 h5 {
+    color: black;
+    text-align: left;
+}
+
+.card3 p {
+    color: black;
+    text-align: left;
+}
+
+.section1 {
+    color: white;
+    background-color: dimgray;
+    padding: 0.5em;
+}
+
+.btn {
+    background-color: #07aca0;
+    color: white;
+}
+
+.xlsize svg {
+    width: 50%;
+    height: 50%;
+    color: gray;
+    margin-top: 15%;
+
+}
+
+.xlsize div {
+    border: 1px solid lightgrey;
+}
+
+.gray {
+    color: grey;
+}
+
+.par {
+    color: #888;
+}
+
+.cardd {
+    background-color: #eee;
+}
+
+.head3 {
+    color: black;
+    justify-content: flex-start;
+}
+
+.card-text {
+    color: white;
+}
